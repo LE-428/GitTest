@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}, nice to meet you')  # Press Strg+F8 to toggle the breakpoint.
     print('So I did this in Python')
     print('git is gamechanging!')
+    print('this is a change in the master branch')
+
 
 
 # Press the green button in the gutter to run the script.
